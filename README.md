@@ -1,35 +1,39 @@
 **Afterthought**
 
+![Home view](src/img/home.png)
+
 A journal application built with React and Firebase. Create draggable notes on an infinite canvas and maintain a personal journal with mood tracking, tags, and markdown support.
 
+![Empty journal](src/img/empty.png)
+![Journal view](src/img/journal.png)
 Features
 
 Notes
--Create colorful sticky notes with markdown support
--Drag and position notes anywhere on the canvas with grid snapping
--Edit and delete notes with intuitive controls
--Undo last 10 actions (create, edit, delete, move)
--Auto-save to Firebase in real-time
+- Create colorful sticky notes with markdown support
+- Drag and position notes anywhere on the canvas with grid snapping
+- Edit and delete notes with intuitive controls
+- Undo last 10 actions (create, edit, delete, move)
+- Auto-save to Firebase in real-time
 
 Journal
--Create and manage journal entries with markdown formatting
--Track moods with visual indicators
--Organize entries with tags
--Search, filter, and sort entries
--Date-based timeline view
--Real-time preview while editing
--Auto-save drafts to localStorage
+- Create and manage journal entries with markdown formatting
+- Track moods with visual indicators
+- Organize entries with tags
+- Search, filter, and sort entries
+- Date-based timeline view
+- Real-time preview while editing
+- Auto-save drafts to localStorage
 
 Authentication
--Google OAuth sign-in
--User-specific data storage
--Persistent sessions
+- Google OAuth sign-in
+- User-specific data storage
+- Persistent sessions
 
 Prerequisites
 
 Before you begin, ensure you have the following installed:
--Node.js (v16 or higher)
--npm(v7 or higher)
+- Node.js (v16 or higher)
+- npm(v7 or higher)
 
 
 Setup Instructions
