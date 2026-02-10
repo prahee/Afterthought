@@ -2,7 +2,7 @@
 
 ![Home view](src/img/home.png)
 
-A journal application built with React and Firebase. Create draggable notes on an infinite canvas and maintain a personal journal with mood tracking, tags, and markdown support.
+A journal (web) application built with React and Firebase. Create draggable notes on an infinite canvas and maintain a personal journal with mood tracking, tags, and markdown support.
 
 ![Empty journal](src/img/empty.png)
 ![Journal view](src/img/journal.png)
